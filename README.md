@@ -38,7 +38,7 @@ This project builds a classification model that predicts the species of an Iris 
 | F1 Score (macro) | 0.967 |
 | Best K | 7 |
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix (1).png)
 ![K Tuning](k_tuning.png)
 
 ## 🚀 How to Run
