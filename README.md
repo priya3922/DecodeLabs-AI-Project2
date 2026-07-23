@@ -51,8 +51,8 @@ python iris_classification.py
 ## 📁 Files
 
 - `iris_classification.py` — full pipeline script
-- `confusion_matrix.png` — model evaluation heatmap
-- `k_tuning.png` — K value optimization chart
+- `1_confusion_matrix.png` — model evaluation heatmap
+- `2_k_tuning.png` — K value optimization chart
 
 ## 🙌 Acknowledgements
 
